@@ -1,0 +1,8 @@
+:root[data-theme="dark"] {
+  --accent-color: #00FFF8;
+  --body-bg: #0D192C;
+  --card-bg: #15263F;
+  --heading-text-color: #8BACD9;
+  --text-color: #8BACD9;
+  --border-color: #2E405A;
+}
